@@ -1,0 +1,9 @@
+.form-control{border-radius: 0px; border: 1px solid black;} 
+.profile-img-edit-container{width: 100px; height: 100px; } .profile-img-edit-container img{ width: 100% ; height: 100px; border-radius: 50%;}
+.button-save{background-color: purple;}
+.img-add{width: 20px; height: 20px; border-radius: 50%;}
+.camera-icon{background-color: purple; padding: 5px; font-size: 30px; color: #ffffff; border-radius: 50%; border: 1px solid #ffffff; cursor: pointer;}
+.img-profile-container{position: relative;}
+.img-position{ position: absolute; margin-top: -20px; margin-left: 10px;}
+.circle{width: 200px; height: 200px;  background-color: #380F6D; border-radius: 50% }
+.icon-order{font-size: 60px;}

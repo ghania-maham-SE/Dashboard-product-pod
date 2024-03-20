@@ -1,0 +1,100 @@
+
+
+  
+  
+  /* .container:hover .overlay {
+    cursor: pointer;
+    bottom: 0;
+    height: 100%;
+  } */
+  
+  .card-contentProduct {
+    width: 100%;
+    cursor: pointer;
+    color: white;
+    font-size: 20px;
+    background-color: #415e91de;
+    text-align: center;
+    transition: transform 0.5s ease-in-out;
+  }
+  .card-contentUsers{
+    width: 100%;
+    cursor: pointer;
+    color: white;
+    font-size: 20px;
+    background-color: #a60505a0;
+    text-align: center;
+    transition: transform 0.5s ease-in-out;
+  }
+  .card-contentCate {
+    width: 100%;
+    cursor: pointer;
+    color: white;
+    font-size: 20px;
+    background-color: #274719a0;
+    text-align: center;
+    transition: transform 0.5s ease-in-out;
+  }
+.card-contentOrders{
+    width: 100%;
+    cursor: pointer;
+    color: white;
+    font-size: 20px;
+    background-color: #055270d4;
+    text-align: center;
+    transition: transform 0.5s ease-in-out;
+}
+.card-contentTag {
+    width: 100%;
+    cursor: pointer;
+    color: white;
+    font-size: 20px;
+    background-color: #420d74d4;
+    text-align: center;
+    transition: transform 0.5s ease-in-out;
+}
+.card-setting {
+    width: 100%;
+    cursor: pointer;
+    color: white;
+    font-size: 20px;
+    background-color: #363632d4;
+    text-align: center;
+    transition: transform 0.5s ease-in-out;
+}
+.card-setting :hover {
+    -ms-transform: scale(1.02); /* IE 9 */
+    -webkit-transform: scale(1.02); /* Safari 3-8 */
+    transform: scale(1.02);
+    transition: transform 0.5s ease-in-out;
+  }
+.card-contentTag :hover {
+    -ms-transform: scale(1.02); /* IE 9 */
+    -webkit-transform: scale(1.02); /* Safari 3-8 */
+    transform: scale(1.02);
+    transition: transform 0.5s ease-in-out;
+  }
+.card-contentOrders:hover {
+    -ms-transform: scale(1.02); /* IE 9 */
+    -webkit-transform: scale(1.02); /* Safari 3-8 */
+    transform: scale(1.02);
+    transition: transform 0.5s ease-in-out;
+  }
+  .card-contentCate:hover {
+    -ms-transform: scale(1.02); /* IE 9 */
+    -webkit-transform: scale(1.02); /* Safari 3-8 */
+    transform: scale(1.02);
+    transition: transform 0.5s ease-in-out;
+  }
+  .card-contentProduct:hover {
+    -ms-transform: scale(1.02); /* IE 9 */
+    -webkit-transform: scale(1.02); /* Safari 3-8 */
+    transform: scale(1.02);
+    transition: transform 0.5s ease-in-out;
+  }
+  .card-contentUsers:hover {
+    -ms-transform: scale(1.02); /* IE 9 */
+    -webkit-transform: scale(1.02); /* Safari 3-8 */
+    transform: scale(1.02);
+    transition: transform 0.5s ease-in-out;
+  }

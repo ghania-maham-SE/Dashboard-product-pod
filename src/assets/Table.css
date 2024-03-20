@@ -1,0 +1,33 @@
+.Table{
+    background-color: #eeeeeec5;
+
+    color: whitesmoke;
+}
+.quilRow{
+    height: 270px;
+}
+.quil {
+    margin-top: 0px;
+    height: 240px;
+}
+.badge{
+    cursor: pointer;
+    margin: 4px;
+}
+Table th, td {
+    border-style: ridge;
+    border: 0.1rem solid rgb(221, 221, 221);
+ 
+  }
+
+  Table thead tr {
+   background-color: #3c4b64;
+ 
+  }
+
+  tbody tr {
+padding-top: 100px;
+    box-shadow: 0 4px 2px 0 rgba(0, 0, 0, 0.05), 0 6px 20px 0 rgba(0, 0, 0, 0.05);
+
+ 
+  }

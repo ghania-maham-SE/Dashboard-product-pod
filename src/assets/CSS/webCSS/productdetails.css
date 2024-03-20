@@ -1,0 +1,628 @@
+
+ .align{
+     height: 200px !important;
+  
+ }
+ .cr7{
+     justify-content: center;
+     align-items: center;
+     display: flex;
+     justify-content: space-evenly;
+ }
+ 
+ 
+ .text-muted1{
+     background-color: greenyellow;
+     color: red;
+     width: 70px;
+     border-radius: 5px;
+ }
+ .text-muted2{
+    
+     color: red;
+    
+ }
+ .proc{
+     justify-content: space-evenly;
+ }
+ .textzee{
+     color: white;
+     text-align: center;
+     align-items: center;
+     padding-top: 50px;
+    
+ }
+ 
+ .border-right{
+    display: block;
+}
+#aboutus{
+    margin-left: 30px;
+}
+.flexible{
+    display: flex;
+
+}
+ .divicon2{
+    display: block;
+    
+}
+#iconbg2{
+    background-color:   #f1eeee ;
+    padding: 3px;
+    align-items: center !important;
+    
+    
+}
+#iconbg3{
+    font-size: 23px;
+    
+    
+}
+ .cardq {
+     border: 1px solid #ccc;
+     border-radius: 5px;
+     padding: 10px;
+   }
+   
+   .imageq {
+     width: 100%;
+     height: auto;
+   }
+   
+   .textq {
+     text-align: center;
+     padding: 10px;
+   }
+   
+   .btnq {
+     margin-top: 10px;
+     border-radius: 5px;
+     padding: 5px;
+     background-color: purple;
+     color: white;
+     width: 180px;
+   }
+ 
+ 
+   
+   .ftlogo {
+    width: 70%;
+   }
+   .logoimg1{
+     position: relative;
+     right: 50px;
+   }
+ 
+ 
+   .navbar-toggler {
+     background-color: white
+   }
+   .navitempic{
+     display: block;
+   }
+   .profileitems{
+    width: 90%;
+   }
+   .hr1{
+    border-bottom: 2px solid;
+   }
+   .prod1{
+
+    background-color: #333;
+    color: white;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+   
+ }
+ .profilepic{
+    border-radius: 100%;
+ }
+ .firstname{
+    color: purple;
+ }
+ .username{
+    color: #9f9696;
+ }
+ .orderstatus{
+    border: 1px solid;
+    border-color: #9f9696;
+    background-color: #ebeaea;
+    padding-bottom: 100px;
+   
+ }
+ 
+ .trcolor{
+    background-color: light;
+ }
+ .trnamecolor{
+    color: purple;
+    font-weight:600
+ }
+ .navtabs{
+    margin-top: 130px;
+    background-color: #ebeaea;
+   width: 75%;
+
+    
+ }
+ .myaccounttext{
+    display: block;
+ }
+ .profileres{
+    display: block;
+    
+ }
+ #proftextcolor{
+    color: black;
+    border-bottom: 1px solid;
+
+ }
+ #proftextcolor1{
+    color: black;
+    border-bottom: 1px solid;
+    
+ }
+ .warning{
+    color: yellow;
+    background-color: white;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+ }
+ .success{
+    color: rgb(14, 193, 14);
+    background-color: white;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+ }
+ .danger{
+    color: red;
+    background-color: white;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+ }
+ .inresponse{
+    display: block;
+ }
+ .stars001{
+    display: block;
+ }
+ .bs1{
+    color: red;
+ }
+  .stok{
+    color: greenyellow;
+ }
+ .xbg{
+    background-color:   #ebeaea;
+    padding: 20px;
+}
+#spc001{
+   
+}
+#spc002{
+    
+}
+.favinput{
+    margin-top: 15px;
+    margin-left: 10px;
+    color: black;
+}
+.favinput2{
+    
+    margin-left: 20px;
+    margin-bottom: 40px !important;
+    color: black;
+    position: relative;
+    bottom: 8px;
+}
+.brand001{
+    background-color:   #ebeaea !important;
+}
+#clrselection{
+    display: block;
+}
+.inps{
+    width: 30px;
+    height: 45px;
+    border: unset;
+    background-color: rgb(234, 243, 243);
+ }
+ .hel{
+    width: 37px;
+ }
+ .hdr2{
+    border: solid 1px;
+ }
+ .hdr3{
+    border: solid 1px;
+    border-color: yellow;
+   
+ }
+ .rat{
+    color: purple;
+ }
+#cartbtnclr{
+    background-color: yellow;
+}
+ 
+  
+@media screen and (min-width: 300px) and (max-width: 576px){ 
+ 
+    .logoimg1{
+     height: 40px;
+     width: 80px;
+     position: relative;
+     right: 20px;
+      
+
+    }
+    .backel1{
+       font-size: xx-small;
+       height: 100px !important;
+       width: 90px;
+       margin-top: 50px;
+       max-width: 170px !important;
+      }
+     
+  
+      .backel2{
+       font-size: xx-small;
+      position: relative;
+      right: 140px;
+  
+      width: 100px !important;
+      height: 50px !important;
+      margin-bottom: 100px;
+      max-width: 200px !important;
+  }
+  
+     
+  
+      .lhr{
+       margin-left: 20px;
+        
+  
+      }
+    
+      .shop2{
+        width: 135px;
+        height: 230px;
+        }
+    
+      .vec0001{
+      
+      position: relative;
+      top: 100px;
+       
+      
+      
+      width: 80px ;
+      }
+    
+      .vec2{
+      width: 100px;
+      margin-left: 100px;
+      
+      
+      
+      }
+  
+      .navitempic{
+      
+      width: 20px;
+      
+      
+      }
+ 
+      #navfont{
+      
+     
+      font-size: small;
+      }
+ 
+     .prod1{
+     
+    
+     height: 50px;
+     
+     }
+
+     .profileres{
+     
+    
+    position: relative;
+    bottom: 10px;
+     font-size: x-large;
+     }
+ 
+     .myaccounttext{
+     
+    
+    
+     font-size: large;
+     }
+
+     .firstname{ 
+     
+    font-size: large;
+     }
+ 
+     .username{ 
+     
+    font-size: small;
+     }
+ 
+     #inresponse{ 
+     flex-direction: column;
+    
+     }
+
+     .navtabs{ 
+     width: 300px;
+     position: relative;
+     bottom: 60px;
+    
+     }
+
+     .orderstatus{ 
+    width: 325px;
+    font-size: small;
+     }
+
+     .table001{ 
+   flex-direction: column;
+   
+     }
+ 
+     .tabletext001{ 
+   position: absolute;
+   left: 20px !important;
+   
+     }
+
+     .stars001{ 
+   margin-top: 40px;
+   position: relative;
+   bottom: 10px;
+   right: 25px;
+ 
+   display: flex;
+   
+     }
+ 
+     .input-group input { 
+   width: 300px;
+   
+     }
+ 
+     .container001 { 
+ 
+   font-size: medium ;
+     }
+ 
+     .input-group input { 
+   width: 300px;
+   
+     }
+
+     .navtabs {
+         margin-top: 100px !important;
+   
+     }
+
+     .logcnt {
+         width: 350px;
+   
+     }
+
+     .drights{
+      
+    margin-left: 50px ;
+     }
+
+     .border-right{
+      border-right: unset !important;
+     }
+     
+
+     #aboutus{
+      margin-left: unset;
+     }
+     #clrselection{
+      flex-direction: column;
+      
+
+     }
+    
+  
+   }
+   @media screen and (min-width: 577px) and (max-width: 992px){
+       .logoimg1{
+     
+           width: 100px;
+           margin-left: 15px;
+     
+         }
+         .backel2{
+             max-height: 80px;
+            max-width: 100px !important;
+            font-size: x-small;
+           position: relative;
+           right: 120px;
+           margin-bottom: 70px;
+           }
+           .backel1{
+               
+               max-width: 80px !important;
+             font-size: x-small;
+            }
+            .vec2{
+          
+             width: 160px;
+             margin-left: 60px; 
+            }
+            .shop2{
+             width: 100%;
+             position: relative;
+             right: 30px;
+           
+           
+             
+             
+            }
+            .vec0001{
+             width: 100%;
+             position: absolute;
+             top: 100px;
+            }
+            #row001{
+    
+               margin-left: 40px;
+             
+                 }
+                 .profileres{
+     
+    
+                   position: relative;
+                   bottom: 10px;
+                    font-size: x-large;
+                    }
+                
+                    .myaccounttext{
+                    
+                   
+                   
+                    font-size: large;
+                    }
+                    .prod1{
+     
+    
+                       height: 50px;
+                       
+                       }
+   } 
+
+   @media screen and (min-width: 993px) and (max-width: 1200px){
+    .logoimg1{
+      
+        width: 100px;
+        margin-left: 15px;
+  
+      }
+      .backel2{
+          max-height: 80px;
+         max-width: 100px;
+         font-size: x-small;
+        position: relative;
+        right: 120px;
+        margin-bottom: 70px;
+        }
+        .backel1{
+            
+            max-width: 80px;
+          font-size: x-small;
+         }
+         .vec2{
+       
+          width: 160px;
+          margin-left: 60px; 
+         }
+         .shop2{
+          width: 100%;
+          position: relative;
+          right: 30px;
+        
+        
+          
+          
+         }
+         .vec0001{
+          width: 100%;
+          position: absolute;
+          top: 100px;
+         }
+         #row001{
+ 
+            margin-left: 40px;
+          
+              }
+          
+          .btnhd2{
+            font-size: xx-small;
+          }
+          .btnhd3{
+            font-size: xx-small;
+            
+          }
+          #purple{
+            font-size: xx-small;
+            width: 70px;
+            position: relative;
+            right: 160px;
+          }
+          .btnhd{
+            font-size: xx-small;
+          }
+        .catcards{
+            flex-direction: column;
+            
+        }
+         .sign1{
+            
+            width: 200%;
+            position: relative;
+            top: 20px;
+          
+         }
+         .backblu{
+            width: 90%;
+         }
+         .textzee4{
+           position: relative;
+           bottom: 24px;
+         }
+         /* .cont3{
+            height: 370px;
+         } */
+         #adjustcol{
+            flex-direction: column;
+            margin-left: 50px;
+         }
+         .cardx{
+            justify-content: center;
+            width: 300% !important;
+         }
+         #hotdealbtn2{
+            width: 100PX;
+        }
+         .button1{
+            width: 90px;
+           
+         }
+         .cardtop{
+            flex-direction: column;
+            
+            
+         }
+         .fntsize{
+            width: 200px;
+         }
+         .price1{
+            font-size: 1rem;
+         }
+         .sign1{
+            width: 200px;
+         }
+   }
+   .detail-imag-container{width: 100%;} .detail-imag-container img{width: 100%; height: 25rem;}
+   .about-product{background-color: rgba(217, 217, 217, 0.3);}
+   .radio{
+      background-color: #c91f0b;
+      border-color: #cd4318;
+  }
